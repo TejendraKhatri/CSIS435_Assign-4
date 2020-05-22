@@ -1,0 +1,18 @@
+{
+int a ;
+int b ;
+float c;
+boolean d;
+char x;
+
+
+for(i=a+b;i<=10;i=i+1){ if(apple == ball){int x;int y;}}
+for(;;){}
+x=y * (2 + z) + (a-b);
+d=true;
+y =x;
+if(x>=y){}else{y=yw;}
+x= x+y;
+d=de / dx;
+
+}
